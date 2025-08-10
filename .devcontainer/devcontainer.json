@@ -1,10 +1,7 @@
 {
   "name": "Flutter Codespace",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "remoteUser": "vscode",
-  "features": {
-    "ghcr.io/devcontainers/features/git:1": {}
-  },
+  "remoteUser": "codespace",
   "customizations": {
     "vscode": {
       "extensions": ["Dart-Code.dart-code", "Dart-Code.flutter"]
